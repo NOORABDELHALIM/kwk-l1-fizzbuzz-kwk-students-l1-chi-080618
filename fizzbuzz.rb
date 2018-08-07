@@ -28,6 +28,6 @@ def fizzbuzz(number)
   
 end
 
-puts fizzbuzz(9)
+puts fizzbuzz(15)
 
 
