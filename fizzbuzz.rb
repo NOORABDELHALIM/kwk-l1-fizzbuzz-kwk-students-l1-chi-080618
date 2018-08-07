@@ -12,7 +12,7 @@
   
 # end
 
-puts fizzbuzz(9)
+# puts fizzbuzz(9)
 
 def fizzbuzz(number)
   
